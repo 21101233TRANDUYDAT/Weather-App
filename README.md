@@ -32,7 +32,20 @@
 
 1. 아래 QR 코드를 스캔하여 APK 파일을 다운로드합니다.
 
-   ![QR Code](https://drive.google.com/file/d/1SrvheiTpR0cahtlcbnXjaucdVUhBkiZ0/view?usp=drive_link)
+    <img src="https://drive.google.com/uc?export=view&id=1SrvheiTpR0cahtlcbnXjaucdVUhBkiZ0" alt="QR Code" width="200" />
 
-2. 다운로드된 `weather app.apk` 파일을 열고 설치하세요.
+2. 다운로드된 `weatherapp.apk` 파일을 열고 설치하세요.
 3. 설치 중 "출처를 알 수 없는 앱" 경고가 나타나면 **설정 > 보안 > 출처를 알 수 없는 앱 설치 허용** 옵션을 활성화하세요.
+
+
+## 🖼️ **스크린샷 및 동영상**
+
+### **주요 기능 데모**
+
+[![WeatherApp 기능]](https://drive.google.com/file/d/12JeofYFYjd-IZL3Qr_sNO92fngbMWBkx/view?usp=drive_link)
+
+
+## 🧑‍💻 **제작자**
+
+- **이름**: [GitHub 프로필](https://github.com/21101233TRANDUYDAT)
+- **이메일**: `tranduydat2511@gmail.com`
