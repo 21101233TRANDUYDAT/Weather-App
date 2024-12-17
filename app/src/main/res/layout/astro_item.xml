@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="60dp"
+    android:paddingVertical="8dp"
+    android:layout_height="wrap_content"
+    android:layout_margin="10dp"
+    android:gravity="center"
+    android:orientation="vertical">
+    <ImageView
+        android:id="@+id/astro_icon"
+        android:layout_width="60dp"
+        android:scaleType="centerCrop"
+        android:layout_height="60dp"
+        android:src="@drawable/ic_weather_sunny" />
+
+    <TextView
+        android:id="@+id/astro_time"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2:00 AM"
+        android:textColor="#FFFFFF"
+        android:textSize="14sp" />
+
+    <TextView
+        android:id="@+id/astro_tem"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="32°"
+        android:textColor="#FFFFFF"
+        android:textSize="16sp" />
+</LinearLayout>
